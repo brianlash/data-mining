@@ -1,3 +1,6 @@
+##NOTE: This script makes use of a sample "starter" script by Dokyun Lee, Assistant Professor of Business Analytics
+##at Carnegie Mellon University. Modified with permission.
+
 ##set pwd
 setwd("~/Desktop/Tepper/Data Mining Files/Final")
 
